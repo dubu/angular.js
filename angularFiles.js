@@ -240,6 +240,11 @@ var angularFiles = {
     '@angularTest'
   ],
 
+  'dubu': [
+    'bower_components/jquery-2.1/dist/jquery.js',
+    'test/dubu/*.js'
+  ],
+
   'karmaJqueryExclude': [
     'src/angular-bootstrap.js',
     'src/ngScenario/angular-bootstrap.js',
